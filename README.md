@@ -2,12 +2,11 @@
 
 This app is a Data Dashboard that visualizes Pokemon Stats using plotly.
 
-This app is available [here]
-(https://pokemon-udacity-webapp.herokuapp.com).
+This app is available [here](https://pokemon-udacity-webapp.herokuapp.com).
 
 ## Data Set:
 
-The data set is downloaded from [Kaggle] (https://www.kaggle.com/abcsds/pokemon).
+The data set is downloaded from [Kaggle](https://www.kaggle.com/abcsds/pokemon).
 
 This data set has 13 columns, including their number, name, first and second type, 
 and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
@@ -38,17 +37,17 @@ The data as described by Myles O'Neill is:
 
 ## Plots:
 
-    - First plot compares the mean stats of Legendary vs normal Pokemons
+- First plot compares the mean stats of Legendary vs normal Pokemons
     
-    - Second plot shows the Histogram of total scores of Legendary vs Normal pokemon
+- Second plot shows the Histogram of total scores of Legendary vs Normal pokemon
     
-    - Third plot is a Categorical bubble chart with Attack on X-axis, Defense on Y-axis and Speed as size for 
+- Third plot is a Categorical bubble chart with Attack on X-axis, Defense on Y-axis and Speed as size for 
      Top 50 Legendary vs Top 50 Normal pokemon
      
-    - Fourth plot is a pairwise PCA scatter plot
+- Fourth plot is a pairwise PCA scatter plot
     
-    - Fifth plot is a 2D PCA Scatter Plot
+- Fifth plot is a 2D PCA Scatter Plot
     
-    - Sixth pot is a 3D PCA Scatter Plot
+- Sixth pot is a 3D PCA Scatter Plot
 
 
